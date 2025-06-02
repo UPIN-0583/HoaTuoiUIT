@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+torchvision
+Pillow
+scikit-learn
+numpy
+python-multipart
+requests

@@ -1,0 +1,18 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /signup
+Disallow: /forgetpassword
+Disallow: /confirmpassword
+Disallow: /myaccount
+Disallow: /cart
+Disallow: /checkout/*
+Disallow: /order-confirmation
+Disallow: /wishlist
+
+# Host
+Host: https://hoatuoiuit.id.vn
+
+# Sitemaps
+Sitemap: https://hoatuoiuit.id.vn/sitemap.xml
