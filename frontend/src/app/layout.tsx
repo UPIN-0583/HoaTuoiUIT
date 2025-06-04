@@ -95,7 +95,9 @@ export default function RootLayout({
           draggable
           pauseOnHover
         />
-        {children}
+        <main className="pt-25">
+          {children}
+        </main>
         <Footer />
       </body>
     </html>

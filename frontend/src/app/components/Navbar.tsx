@@ -19,9 +19,9 @@ import { useEffect, useState } from "react";
 
 const LogNavbar = () => {
   return (
-    <header className="bg-white shadow-md">
+    <header className="bg-white shadow-md fixed top-0 left-0 right-0 z-50 ">
       {/* Top Bar */}
-      <div className="bg-purple-700 text-white text-sm text-center py-2 flex flex-col md:flex-row justify-between px-4 md:px-20">
+      <div className="bg-purple-700  text-white text-sm text-center py-2 flex flex-col md:flex-row justify-between px-4 md:px-20">
         <span>Hotline: +123-456-789</span>
         <span className="mt-2 md:mt-0">
           <a href="#" className="underline">
